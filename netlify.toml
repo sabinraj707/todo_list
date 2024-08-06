@@ -1,0 +1,4 @@
+[[redirects]]
+from="/*"
+to="./src/components/Login.js"
+status=200
